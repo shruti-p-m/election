@@ -1,0 +1,7 @@
+geopandas==1.1.0
+joblib==1.4.2
+numpy==2.3.0
+pandas==2.3.0
+plotly==5.24.1
+Requests==2.32.4
+streamlit==1.45.1
